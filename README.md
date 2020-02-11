@@ -1,2 +1,2 @@
 # Exchange_Rate
-A basic exchange rate converter created using React.
+A currency converter created using React(API from 'https://exchangeratesapi.io' ).
